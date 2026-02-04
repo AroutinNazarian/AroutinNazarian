@@ -33,7 +33,6 @@ Backend engineer with a passion for building robust, scalable systems. Currently
 <table>
 <tr>
 <td width="50%">
-
 ### Cryptocurrency Price API
 REST API for fetching cryptocurrency prices with Redis caching, containerized with Docker and orchestrated with Kubernetes. Features 2 Flask replicas, persistent volumes for data durability, and load balancing.
 
