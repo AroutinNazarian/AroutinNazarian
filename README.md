@@ -4,7 +4,7 @@
   
 **Backend Engineer | Python Developer | Data Engineering Enthusiast**
 
-[Email](mailto:naroutin@gmail.com) • [LinkedIn](https://www.linkedin.com/in/aroutin-nazarian/)
+[Email](mailto:aroutinnazarian.dev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/aroutin-nazarian/)
 
 </div>
 
