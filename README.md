@@ -4,8 +4,6 @@
   
 **Backend Engineer | Python Developer | Data Engineering Enthusiast**
 
-Building scalable systems and exploring data-driven solutions.
-
 [Email](mailto:naroutin@gmail.com) • [LinkedIn](https://www.linkedin.com/in/aroutin-nazarian/)
 
 </div>
@@ -24,6 +22,7 @@ Backend engineer with a passion for building robust, scalable systems. Currently
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
 </div>
@@ -36,60 +35,48 @@ Backend engineer with a passion for building robust, scalable systems. Currently
 <tr>
 <td width="50%">
 
-### Project One
-Brief description of your first project. What problem does it solve?
+### Cryptocurrency Price API
+REST API for fetching cryptocurrency prices with Redis caching, containerized with Docker and orchestrated with Kubernetes. Features 2 Flask replicas, persistent volumes for data durability, and load balancing.
 
-**Tech:** Python, Docker, PostgreSQL
+**Tech:** Python, Flask, Redis, Docker, Kubernetes
 
-[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/project-one)
+[View Repository →](https://github.com/AroutinNazarian/Docker-Kubernetes)
 
 </td>
 <td width="50%">
 
-### Project Two
-Brief description of your second project. Highlight key features.
+### Persian Spotify - Music Analysis & Recommendations
+Comprehensive data analysis and machine learning recommendation system for Persian music. Features exploratory data analysis, feature engineering, and predictive modeling to understand listening patterns and generate personalized recommendations.
 
-**Tech:** Python, FastAPI, Kubernetes
+**Tech:** Python, Data Analysis, Machine Learning, pandas, scikit-learn, Jupyter
 
-[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/project-two)
+[View Repository →](https://github.com/AroutinNazarian/Persian-Spotify)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Project Three
-Brief description of your third project. What makes it interesting?
+### NeuroEvolution - Snail Jumper
+Neuroevolution assignment where AI agents learn to play a jumping game using genetic algorithms and neural networks. Demonstrates AI evolution through natural selection.
 
-**Tech:** Python, Data Engineering
+**Tech:** Python, Neuroevolution, Neural Networks, Genetic Algorithms
 
-[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/project-three)
+[View Repository →](https://github.com/AroutinNazarian/NeuroEvolution-game-Snail-Jumper)
 
 </td>
 <td width="50%">
 
-### Project Four
-Brief description of your fourth project. Focus on the impact.
+### Information Retrieval
+Advanced information retrieval system from the Information Retrieval course at Amirkabir University. Focuses on efficient document search and ranking techniques.
 
-**Tech:** Python, Backend, APIs
+**Tech:** Python, Data Engineering, NLP
 
-[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/project-four)
+[View Repository →](https://github.com/AroutinNazarian/Information-Retrieval-)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AroutinNazarian&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AroutinNazarian&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
 
 ---
 
