@@ -6,7 +6,7 @@
 
 Building scalable systems and exploring data-driven solutions.
 
-[Email](mailto:naroutin@gmail.com) • [LinkedIn](https://www.linkedin.com/in/aroutin-nazarian/) • [GitHub](https://github.com/AroutinNazarian)
+[Email](mailto:naroutin@gmail.com) • [LinkedIn](https://www.linkedin.com/in/aroutin-nazarian/)
 
 </div>
 
