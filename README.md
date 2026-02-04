@@ -6,7 +6,7 @@
 
 Building scalable systems and exploring data-driven solutions.
 
-[Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/your-linkedin-profile) • [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+[Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/your-linkedin-profile) • [GitHub](https://github.com/AroutinNazarian)
 
 </div>
 
