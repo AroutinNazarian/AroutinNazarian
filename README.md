@@ -93,6 +93,4 @@ Advanced information retrieval system from the Information Retrieval course at A
 
 <div align="center">
 
-**Let's build something great together!** 🚀
-
 </div>
