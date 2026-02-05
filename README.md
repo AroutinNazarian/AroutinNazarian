@@ -6,7 +6,7 @@
 
 Building scalable systems and exploring data-driven solutions.
 
-<a href="mailto:aroutinnazarian.dev@gmail.com"><img src="https://img.shields.io/badge/Email-aroutinnazarian.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:naroutin@gmail.com"><img src="https://img.shields.io/badge/Email-naroutin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aroutin-nazarian/"><img src="https://img.shields.io/badge/LinkedIn-Aroutin%20Nazarian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
