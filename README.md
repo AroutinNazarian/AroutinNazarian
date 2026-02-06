@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Backend Engineer | Python Developer | Data Engineering Enthusiast**
+**Backend Engineer | Python Developer | Data Science Enthusiast**
 
 Building scalable systems and exploring data-driven solutions.
 
