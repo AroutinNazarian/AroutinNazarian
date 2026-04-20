@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Backend Engineer | Python Developer | Data Science Enthusiast**
+**Python Developer | Data Science Enthusiast**
 
 Building scalable systems and exploring data-driven solutions.
 
@@ -15,7 +15,7 @@ Building scalable systems and exploring data-driven solutions.
 
 ## 🎯 About Me
 
-Backend engineer with a passion for building robust, scalable systems. Currently focused on Python development with a growing interest in data science and engineering. I love working with cloud infrastructure and containerization to create efficient, production-ready applications.
+Computer Science graduate with a focus on Data Science and DevOps, specializing in building scalable data pipelines and automated infrastructure. Experienced with Python, Spark, Docker, Kubernetes, and cloud tools for processing, analyzing, and deploying data-driven solutions.
 
 ---
 
