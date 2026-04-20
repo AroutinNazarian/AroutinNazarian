@@ -84,8 +84,8 @@ Advanced information retrieval system from the Information Retrieval course at A
 
 ## 💡 Open To
 
-- Interesting backend engineering challenges
-- Data engineering & science opportunities
+- Interesting Data Science  challenges
+- Data Science & DevOps opportunities
 - Open source contributions
 - Technical collaborations
 
